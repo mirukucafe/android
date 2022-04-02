@@ -1,0 +1,8 @@
+cafe/miruku/trol/LauncherActivity.java
+ cafe.miruku.trol.LauncherActivity
+cafe/miruku/trol/DelegationService.java
+ cafe.miruku.trol.DelegationService
+cafe/miruku/trol/BuildConfig.java
+ cafe.miruku.trol.BuildConfig
+cafe/miruku/trol/Application.java
+ cafe.miruku.trol.Application
